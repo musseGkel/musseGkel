@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/musseGkel/Github--demo/blob/main/Linkedin%20banner.jpeg"  />
+  <img src="https://github.com/musseGkel/Github--demo/blob/main/Linkedin%20Banner%20Apr.jpeg"  />
 </div>
 
 # 💫 About Me:
