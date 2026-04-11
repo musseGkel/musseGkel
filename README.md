@@ -1,5 +1,9 @@
 <div align="center">
   <img src="https://github.com/musseGkel/Github--demo/blob/main/Linkedin%20Banner%20Apr.jpeg"  />
+   <br/>
+  <a href="https://musse.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </div>
 
 # 💫 About Me:
@@ -7,6 +11,7 @@ Full-stack software developer experienced in building scalable web, mobile, and 
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://musse.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mussegkel/) 
 
 # 💻 Tech Stack:
