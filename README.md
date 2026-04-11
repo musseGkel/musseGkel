@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-A diligent software developer specializing in Mobile and Web app development. Experienced in diverse projects,<br>excels in crafting user-friendly interfaces, and collaborating with cross-functional teams. A quick learner.<br>efficiently manages time to meet project deadlines and budgets.
+Full-stack software developer experienced in building scalable web, mobile, and AI-powered applications, with a strong focus on performance, clean architecture, and efficient delivery. Collaborative team player and fast learner, consistently delivering high-quality solutions on time.
 
 
 ## 🌐 Socials:
